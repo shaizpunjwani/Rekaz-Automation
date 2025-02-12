@@ -15,4 +15,5 @@
     "price": "//*[@id='Booking_Input_Service_Price']",
     "done": "//*[@id='kt_create_account_form']/div[4]/div[2]/button",
     "success": "//*[@id='kt_clipboard_4']/font/font"
+    
 }
