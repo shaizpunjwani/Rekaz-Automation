@@ -1,0 +1,18 @@
+{
+    "Trybtn": "//*[@id='content']/div/div/section[1]/div/div/div/div[4]/div/div[1]/div/div/a",
+    "Notsurebtn": "//*[@id='registration-form']/div[3]/div[2]/div[1]/div/div[12]",
+    "trackingbtn": "//*[@id='registration-form']/div[3]/div[2]/div[2]/button",
+    "Name": "//*[@id='Input_FullName']",
+    "Email": "//*[@id='Input_EmailAddress']",
+    "Mobile": "//*[@id='Input_MobileNumber']",
+    "pwd": "//*[@id='Input_Password']",
+    "registration": "//*[@id='registration-form']/div[3]/div[1]/div[5]/button",
+    "project name": "//*[@id='Input_BusinessName']",
+    "size": "//*[@id='kt_create_account_form']/div[1]/div[1]/div[2]/div[2]/button[2]",
+    "tracking": "//*[@id='kt_create_account_form']/div[4]/div[2]/button",
+    "business":"//*[@id='kt_create_account_form']/div[1]/div[2]/div/div[2]/div[2]/div/button[3]",
+    "service": "//*[@id='Booking_Input_Service_Name']",
+    "price": "//*[@id='Booking_Input_Service_Price']",
+    "done": "//*[@id='kt_create_account_form']/div[4]/div[2]/button",
+    "success": "//*[@id='kt_clipboard_4']/font/font"
+}
